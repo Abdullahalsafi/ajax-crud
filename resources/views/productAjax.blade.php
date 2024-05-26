@@ -15,7 +15,7 @@
 <body>
       
 <div class="container">
-    <h1>Laravel Ajax CRUD Tutorial Example - ItSolutionStuff.com</h1>
+    <h1>Laravel Ajax CRUD </h1>
     <a class="btn btn-success" href="javascript:void(0)" id="createNewProduct"> Create New Product</a>
     <table class="table table-bordered data-table">
         <thead>
